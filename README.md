@@ -45,7 +45,13 @@ jupyter notebook Wave_FinalCondition.ipynb
 ```
 
 ## Running the code on Google Colab
-...
+Link for the normal wave equation: 
+
+https://githubtocolab.com/mathmerizing/SpaceTimeWave/blob/main/Wave_Normal.ipynb
+
+Link for the wave equation with initial and final condition for velocity: 
+
+https://githubtocolab.com/mathmerizing/SpaceTimeWave/blob/main/Wave_FinalCondition.ipynb
 
 ## References
 <a id="1">[1]</a>
