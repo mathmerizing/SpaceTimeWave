@@ -1,4 +1,6 @@
 # Space-Time Finite Element Method for wave equation
+[![DOI](https://zenodo.org/badge/806481849.svg)](https://zenodo.org/doi/10.5281/zenodo.11352638)
+
 Solving the wave equation as a first-order system in time using space-time finite elements.
 
 ## Problem statement
